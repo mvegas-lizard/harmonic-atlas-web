@@ -1,0 +1,20 @@
+HYG v4.1 star positions and derived Harmonic Atlas charts
+
+Credit: David Nash / Astronomy Nexus
+Source: https://github.com/astronexus/HYG-Database/blob/main/hyg/CURRENT/hygdata_v41.csv
+Documentation: https://github.com/astronexus/HYG-Database/blob/main/hyg/README.md
+License: Creative Commons Attribution-ShareAlike 4.0 International
+https://creativecommons.org/licenses/by-sa/4.0/
+Legal terms: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+Changes by Harmonic Atlas: selection of 107 stars, labels, brightness weights,
+and north-up, east-left stereographic chart projections with uniform scaling.
+Input coordinates are right ascension in hours and declination in degrees,
+for epoch and equinox J2000. No runtime catalog download is required.
+The adapted star data and derived coordinate fields remain CC BY-SA 4.0.
+No endorsement by the catalog author is implied.
+
+Source records, hash, and transformation script are included in the source
+project: src/content/star-catalog.json, scripts/project-star-charts.mjs,
+and the chart fields in src/content/editorial.json. These fields are separate
+from the project's MIT code, original written content, and original figure art.
