@@ -40,4 +40,12 @@ Full notices are copied into `licenses/` and included in the production build.
 
 ## Runtime libraries
 
+### MP3 encoding
+
+`@breezystack/lamejs` 1.2.7 is distributed under LGPL-3.0. Its unmodified encoder, original notice, full LGPL/GPL texts and corresponding source archive are included in `vendor/lamejs-1.2.7/`. The module is loaded separately by the MP3 worker and can be replaced independently. See its [component notice](vendor/lamejs-1.2.7/NOTICE.md). This component retains its own license; original Harmonic Atlas code remains MIT, copyright mvegas.
+
+Exported MP3 files carry an ID3 comment acknowledging the Salamander piano samples, Alexander Holm, their CC BY 3.0 license and source, and Harmonic Atlas as the application used to make the recording. The musical performance is not attributed to the application's author.
+
+### Application libraries
+
 React and React DOM (MIT), Tone.js (MIT), Tonal (MIT), Zod (MIT), and Lucide icons (ISC). Full top-level runtime notices are included in `licenses/`; generated bundles may also include notices for transitive code. Development tools retain the licenses in their installed packages and are not shipped as browser runtime dependencies.

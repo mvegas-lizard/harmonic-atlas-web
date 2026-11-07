@@ -1,0 +1,3 @@
+(function(){let e,t=!1;self.onmessage=async({data:n})=>{if(!t)try{let t;if(n.type===`initialize`)e=new(await(import(
+/* @vite-ignore */
+n.encoderUrl))).Mp3Encoder(2,n.sampleRate,192);else if(n.type===`encode`&&e)t=e.encodeBuffer(new Int16Array(n.left),new Int16Array(n.right));else if(n.type===`finish`&&e)t=e.flush(),e=void 0;else throw Error(`The MP3 encoder could not start.`);let r=t?new Uint8Array(t).buffer:/* @__PURE__ */ new ArrayBuffer(0);self.postMessage({bytes:r},[r])}catch{t=!0,self.postMessage({error:!0})}}})();
