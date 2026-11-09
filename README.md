@@ -16,9 +16,25 @@ New to music theory? Start with a chord, listen to the highlighted stars and fol
 
 Already have something in mind? Choose from the chord palette, explore different chord colors and use the score and theory tools for more control. Suggestions are an invitation, and you can mix them with your own choices.
 
+## Between theory and play
+
+You can open more detailed music theory explanations while building your progression and again when you finish. Explore the notes in each chord, how neighboring harmonies relate and what gives an ending its sense of arrival. It's a place to practice and learn as well as compose, with explanations there when you want to go deeper.
+
 ## Give the music a shape
 
-Choose a tempo and accompaniment, from gentle chords to rising arpeggios. Each choice adds a star to your drawing. When the piece feels finished, listen back, explore its harmony and discover an illustrated mythological companion connected to your music. Your compositions and discoveries live in your Atlas.
+Choose a tempo and accompaniment, from gentle chords to rising arpeggios. Each choice adds a star to your drawing. When the piece feels finished, listen back and explore its harmony.
+
+## A constellation of your own
+
+Different progressions trace different shapes. Finish a journey and its constellation is saved in your Atlas, where you can return to it later. Here are two examples from the collection:
+
+![Two saved compositions in the Atlas, each with a different constellation shape](landing/constellations.png)
+
+Your music also finds an illustrated mythological companion: a constellation and story chosen to echo features of the journey. For example, shared notes or a flowing accompaniment can suggest a sense of continuity. You can explore the connection and the story behind it.
+
+![An illustrated Aquarius and an explanation connecting its story to the music](landing/myth.png)
+
+Algorithms use musical details such as chord relationships, the way a phrase ends, tempo and accompaniment to shape the suggestions and readings. The connections in the music are real; the stories are imaginative interpretations of them. Together, they bring a little magic to the mathematics and make each journey feel personal.
 
 ![A melody playground with a constellation and its mythological companion](landing/melody.png)
 
