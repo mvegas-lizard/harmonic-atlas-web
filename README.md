@@ -1,13 +1,37 @@
+<p align="center"><img src="landing/banner.png" alt="Harmonic Atlas — a map of musical choices" width="100%"></p>
+
 # Harmonic Atlas
 
-An observatory of harmony. Created by **mvegas**.
+**Make music by following a path through the stars.**
 
-[Play Harmonic Atlas](https://mvegas-lizard.github.io/harmonic-atlas-web/)
+Harmonic Atlas is a personal project about composing, listening and finding ideas along the way. Pick a chord and build a constellation one harmony at a time. The paths offer suggestions when you want them; the full chord palette is there when you want to choose for yourself. You can move between both approaches at any point.
 
-Choose a chord, follow a path, and hear a piece of music become a constellation. Explore the harmony, discover its star story, and improvise a melody of your own.
+**[Open Harmonic Atlas](https://mvegas-lizard.github.io/harmonic-atlas-web/)** · [Listen to a piano example](landing/arpeggio-example.mp3) · [Share feedback](https://github.com/mvegas-lizard/harmonic-atlas-web/issues)
 
-## Credits
+![A journey through suggested chords and a growing constellation](landing/journey.jpg)
 
-Copyright (c) 2026 mvegas. Code is [MIT licensed](LICENSE). Piano recordings, fonts, libraries, and star data retain their own licenses; see [Third-party notices](THIRD_PARTY_NOTICES.md). Illustration provenance is recorded in the [artwork manifest](art/myths/manifest.json).
+## Find your own way through
 
-Compositions stay in your browser. Export Project JSON to keep a backup.
+New to music theory? Start with a chord, listen to the highlighted stars and follow the sound you like. Ask the map to continue, add tension or find a place to rest. Short explanations help you hear why the chords connect, without needing to study first.
+
+Already have something in mind? Choose from the chord palette, explore different chord colors and use the score and theory tools for more control. Suggestions are an invitation, and you can mix them with your own choices.
+
+## Give the music a shape
+
+Choose a tempo and accompaniment, from gentle chords to rising arpeggios. Each choice adds a star to your drawing. When the piece feels finished, listen back, explore its harmony and discover an illustrated mythological companion connected to your music. Your compositions and discoveries live in your Atlas.
+
+![A melody playground with a constellation and its mythological companion](landing/melody.png)
+
+You can also improvise a melody over your progression using a keyboard, mouse or touch. Export the finished piece as MP3, MIDI, a constellation drawing or a project file. The melody playground is for live playing and does not record melody takes.
+
+The [short piano example](landing/arpeggio-example.mp3) is C–Am–F–G–C, arranged as a rising arpeggio using the app's Salamander Grand Piano samples by Alexander Holm ([CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)). The samples have been repitched and mixed for this example.
+
+## Come and explore
+
+The app runs in your browser and is available in English and Spanish. Your Atlas is stored in that browser, so export a project file if you want a backup or want to move it to another device.
+
+This is a personal project, open for anyone to try. If something surprises you, feels confusing or gives you an idea, [open an issue](https://github.com/mvegas-lizard/harmonic-atlas-web/issues). I'd love to hear about your experience.
+
+---
+
+Created by **mvegas**. Application code is [MIT licensed](LICENSE); piano recordings, fonts, libraries and star data have their own licenses. See [third-party notices](THIRD_PARTY_NOTICES.md) and the [illustration manifest](art/myths/manifest.json).
